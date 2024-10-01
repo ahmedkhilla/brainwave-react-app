@@ -1,4 +1,4 @@
-# Brainwaves React App
+# Brainwave React App
 
 Brainwaves is a modern, responsive web application built using React and Tailwind CSS. This project represents a significant part of my learning journey as a front-end developer, where I applied advanced styling techniques and responsive design principles.
 
